@@ -1,7 +1,7 @@
 ## Documentation
 
 ## Hatch
-Angry Birds style game programmed in lua and Love2d.  Music by Timothy Davis. 
+Angry Birds style game programmed in lua and Love2d with updated clean graphics.  Music by Timothy Davis. 
 
 Video Link:
 https://www.youtube.com/watch?v=0hBLOj6h1SY
