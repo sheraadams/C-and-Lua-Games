@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=0hBLOj6h1SY
 Funny game programmed in C++ and OpenGL.
 
 Video Link:
-https://studio.youtube.com/video/9cnVLwO_Lmk/edit
+https://studio.youtube.com/video/9cnVLwO_Lmk
 
 ![Screenshot 2023-01-22 151133](https://user-images.githubusercontent.com/110789514/213938071-9a8f3f20-2e2a-4aed-8eaa-45efe50ed572.png)
 ![Screenshot 2023-01-22 151119](https://user-images.githubusercontent.com/110789514/213938074-7b9eebc6-ce38-4252-a55e-5fea7dfc8469.png)
